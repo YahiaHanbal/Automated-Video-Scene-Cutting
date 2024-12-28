@@ -18,12 +18,12 @@ Install dependencies using:
 ```bash
 pip install opencv-python moviepy
 ```
-##How to use
+## How to use
 - Place your video file in the same directory as the script.
 - Open the script and update the video_path variable with your video file name or path.
 - Run the script:
 
-##Example Output
+## Example Output
 - output_clips/clip_1.mp4
 - output_clips/clip_2.mp4
 - output_clips/clip_3.mp4
